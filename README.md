@@ -9,7 +9,9 @@
 
   - ⚡ I enjoy playing games and table tennis! 
 </details>
+
 <br>
+
 ![Stuarte.exe GitHub stats](https://github-readme-stats.vercel.app/api?username=EmilioStuart&show_icons=true&theme=dark)
 <br>
 ![Stuarte.exe Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmilioStuart&layout=compact&langs_count=7&theme=dark)
