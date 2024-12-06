@@ -5,7 +5,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 15 years old, currently living in Brazil. I have intermediate language in English and basic knowledge with SQL, Java, CSS, HTML, Python and Bash.
+  - 💬 I am 16 years old, currently living in Brazil. I have intermediate language in English and basic knowledge with SQL, Java, CSS, HTML, Python and Bash.
 
   - ⚡ I enjoy playing games and table tennis! 
 </details>
