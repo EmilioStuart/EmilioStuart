@@ -1,11 +1,11 @@
 <h2>Hi there👋, I'm Emílio!</h2>
 <ul>
-    <li>🌱 I’m currently studying at Germinare TECH.</li>
+    <li>🌱 I’m currently studying System Development at Germinare TECH.</li>
 </ul> <br>
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 16 years old, currently living in Brazil. I have intermediate language in English and basic knowledge with SQL, Java, CSS, HTML, Python and Bash.
+  - 💬 I am 16 years old, currently living in Brazil. I have intermediate language in English and basic knowledge with SQL, Java, HTML, CSS, Javascript, Python and Bash.
 
   - ⚡ I enjoy playing games and table tennis! 
 </details>
