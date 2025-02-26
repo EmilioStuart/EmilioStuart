@@ -16,6 +16,9 @@
 <br>
 ![Stuarte.exe Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmilioStuart&layout=compact&langs_count=7&theme=dark)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=EmilioStuart&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
 
 <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
