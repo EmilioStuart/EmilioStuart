@@ -1,6 +1,7 @@
 <h2>Hi there👋, I'm Emílio!</h2>
 <ul>
     <li>🌱 I’m currently studying System Development at Germinare TECH.</li>
+    <li>🔭 I’m currently working at Swift as Cloud Developer</li>
 </ul> <br>
 <details>
   <summary>👨‍💻 More about me</summary>
@@ -43,4 +44,5 @@
     <img align="center" alt="Intellij IDEA" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Idea-Dark.svg">
     <br><br>
     <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Light.svg">
+    <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AWS-Dark.svg">
   </div>
