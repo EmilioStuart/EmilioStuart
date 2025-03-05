@@ -8,7 +8,7 @@
 
   - 💬 I am 16 years old, currently living in Brazil. I have intermediate language in English and basic knowledge with SQL, Java, HTML, CSS, Javascript, Python and Bash.
 
-  - ⚡ I enjoy playing games and table tennis! 
+  - ⚡ I enjoy playing games, voleyball and table tennis! 
 </details>
 
 <br>
