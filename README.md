@@ -6,7 +6,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 16 years old, currently living in Brazil. I have intermediate language in English and basic knowledge with SQL, Java, HTML, CSS, Javascript, Python and Bash.
+  - 💬 I am 16 years old, currently living in Brazil. I have intermediate language in English and basic knowledge with SQL, MongoDB, Java, HTML, CSS, Javascript, Python and Bash.
 
   - ⚡ I enjoy playing games, voleyball and table tennis! 
 </details>
@@ -30,6 +30,7 @@
     <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
     <br><br>
     <img align="center" alt="Bash" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bash-Dark.svg">
+    <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MongoDB.svg">
   </div>
 
   <br>
@@ -45,5 +46,5 @@
     <br><br>
     <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Light.svg">
     <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AWS-Dark.svg">
-      <img align="center" alt="Android Studio" height="30" width="30" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png">
+    <img align="center" alt="Android Studio" height="30" width="30" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png">
   </div>
