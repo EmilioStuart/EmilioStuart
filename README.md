@@ -55,5 +55,5 @@
   <img alt="IntelliJ IDEA" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Idea-Dark.svg" width="40" />
   <img alt="GitHub" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Light.svg" width="40" />
   <img alt="AWS" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" width="40" />
-  <img alt="Android Studio" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" width="30" />
+  <img alt="Android Studio" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" width="40" />
 </p>
