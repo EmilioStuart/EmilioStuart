@@ -3,7 +3,7 @@
 <ul>
   <li>🌱 Currently studying System Development at <strong>Germinare TECH</strong></li>
   <li>🔭 Working as a <strong>Cloud Developer</strong> at <strong>Swift</strong></li>
-  <li>☁️ Using <strong>AWS</strong> and <strong>MongoDB Atlas</strong> daily</li>
+  <li>☁️ Using <strong>AWS</strong> daily</li>
 </ul>
 
 <details>
