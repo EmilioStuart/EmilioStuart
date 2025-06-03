@@ -12,7 +12,7 @@
   - 🧠 I'm 16 years old and live in Brazil  
   - 🌎 Intermediate English speaker  
   - 📚 I have experience with:  
-    <code>SQL</code>, <code>MongoDB</code>, <code>Java</code>, <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>, <code>Python</code>, <code>Bash</code>  
+    <code>PostgreSQL</code>, <code>MongoDB</code>, <code>Java</code>, <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>, <code>Python</code>, <code>Bash</code>  
   - 🎮 I love playing games, volleyball and table tennis!  
 </details>
 
