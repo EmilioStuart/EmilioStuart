@@ -59,3 +59,6 @@
   <img alt="Spring" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Spring-Light.svg" width="40" />
   <img alt="Figma" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Light.svg" width="40" />
 </p>
+
+---
+![Snake animation](https://raw.githubusercontent.com/EmilioStuart/EmilioStuart/output/github-contribution-grid-snake.svg)
