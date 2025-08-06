@@ -12,7 +12,7 @@
   - 🧠 I'm 16 years old and live in Brazil  
   - 🌎 Intermediate English speaker  
   - 📚 I have experience with:  
-    <code>PostgreSQL</code>, <code>MongoDB</code>, <code>Java</code>, <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>, <code>Python</code>, <code>Bash</code>  
+    <code>PostgreSQL</code>, <code>MongoDB</code>, <code>Java</code>, <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>, <code>Python</code>, <code>Bash</code>, ...
   - 🎮 I love playing games, volleyball and table tennis!  
 </details>
 
@@ -58,6 +58,7 @@
   <img alt="Android Studio" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" width="40" />
   <img alt="Spring" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Spring-Light.svg" width="40" />
   <img alt="Figma" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Light.svg" width="40" />
+  <img alt="Elasticsearch" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Elasticsearch-Light.svg" width="40" />
 </p>
 
 ---
