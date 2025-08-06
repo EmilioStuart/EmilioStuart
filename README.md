@@ -61,4 +61,4 @@
 </p>
 
 ---
-![Snake animation](https://raw.githubusercontent.com/EmilioStuart/EmilioStuart/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/EmilioStuart/EmilioStuart/output/snake.svg)
