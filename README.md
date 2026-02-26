@@ -9,27 +9,12 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 🧠 I'm 16 years old and live in Brazil  
+  - 🧠 I'm 17 years old and live in Brazil  
   - 🌎 Intermediate English speaker  
   - 📚 I have experience with:  
     <code>AWS</code>, <code>ELK</code>, <code>GitLab</code>, <code>Python</code>, <code>Java</code>, <code>MongoDB</code>, <code>GIT</code> ...
   - 🎮 I love playing games, volleyball and table tennis!  
 </details>
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmilioStuart&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmilioStuart&layout=compact&langs_count=7&theme=dark)
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=EmilioStuart&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
----
 
 ## Trabalho
 
